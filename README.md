@@ -11,7 +11,7 @@ Contains the dataset provided by Mumsnet (mumsnet_test.csv)
 ForumData.ipynb:
 Code used for the analysis. The code performs data visualisation and implements a supervised machine model. See the Report for further details.
 
-Data_visualisation
+Data_visualisation.
 Contents:
 - Number of messages across forums.pdf:
 Bar chart of the number of messages posted to each forum
