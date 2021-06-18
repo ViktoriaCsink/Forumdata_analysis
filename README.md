@@ -21,7 +21,7 @@ Plot containing information on the time course of the messages on various forums
 Word cloud using the title words 
 - Frequent_collocations:
 Folder containing the most common 2-word combinations on the different forums.
-- Recommended_prodcuts.png:
+- Recommended_products.png:
 Pie chart depicting the distribution of product categories across the recommendations
 
 Preprocessed_data:
