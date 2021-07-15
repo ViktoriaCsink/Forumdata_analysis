@@ -1,12 +1,9 @@
-# Mumsnet_Forumdata
+# Forumdata
 
 Contents:
 
-Report.pdf:
-Text explaining the problem and the analytical approaches.
-
 Raw_data:
-Contains the dataset provided by Mumsnet (mumsnet_test.csv)
+Dataset containing the interactions on various mumsnet forums (mumsnet_test.csv)
 
 ForumData.ipynb:
 Code used for the analysis. The code performs data visualisation and implements a supervised machine model. See the Report for further details.
@@ -27,3 +24,6 @@ Pie chart depicting the distribution of product categories across the recommenda
 Preprocessed_data:
 Contains the csv file where the product category (e.g. 'Baby', 'DIY', 'Kitchen & Home') is added as a column.
 This information was previously extracted from the URLs through web scraping.
+
+Report.pdf:
+Text explaining the problem and the analytical approaches.
